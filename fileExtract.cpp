@@ -1,4 +1,3 @@
-//Huy Yang (Huy Yanhs), Karla Fant, Computer Science 163
 
 //assignment #4
 
