@@ -1,4 +1,3 @@
-//Huy Yang(Huy Yanhs), Computer Science 163, Karla Fant, Assignment #4, 11/18/2014
 
 //tree.cpp
 
