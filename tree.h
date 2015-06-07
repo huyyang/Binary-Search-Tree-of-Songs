@@ -1,8 +1,4 @@
-//Huy Yang (Huy Yanhs), Professor Karla Fant, Computer Science 163, 11/20/2014
-
 //tree.h
-
-//assignment #4
 
 //This is our tree.h. It is connected to our song class and we want to 
 //pass our song class into our node because one song class is basically a node.
