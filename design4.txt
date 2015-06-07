@@ -1,0 +1,62 @@
+Huy Yang (Huy Yanhs, Professor Karla Fant, Computer Science 163, 11/24/2014
+
+Program #4
+
+1) I thought this data structure was the best out of all the data structures
+that we have been taught in this class. The fact that you can just search
+by user command is just remarkably amazing and in all honesty, it was the most
+fun out of all the data structures. The fact that it is heiracharcle was just
+so fascinating and it makes me wonder what other data structures there are out
+there besides graphs and binary search trees. 
+
+2) I feel like a graph would have an enourmous impact on how you would search
+for data members because a binary tree would go down the tree and compare each
+data member but since a graph is practically like an array, it has direct access.
+One, its better for the coder, and two, its better for the user. Direct access
+I would say is always and will always be the dream to me. Direct access is the 
+way to go in my opinion.
+
+3) Literally everything was efficient in my data structure. That is partially 
+because I already had my read in file ready for me to use from program #3 so
+it was basically just a copy and paste. But after just having the read in
+function everything else was basically just implementing the data structure.
+Understanding how the constructor and destructor works is a must in order to
+construct our binary search tree and actually understanding recursion is a big
+must in order to construct our binary search tree. Literally all of this 
+assignment you would have to use recursion or you won't get the results you 
+want due to the fact that in order to understand binary searh trees, you need
+to understand recursion and I would say if you were to construct binary search
+trees iteratively, you would go on weeks on weeks just trying to figure out
+which way is left or which way is right. That's just my opinion on how binary
+search trees work. But that is the efficient way to go. Recursion makes your
+code look for clean and efficient. Just like how data structures should be.
+
+4) The only thing that was inefficient with my code was my delete function. 
+The one where the user enters in a desired song title and only that song
+title and its contents (album name, artist name, minutes, extractions) are 
+all deleted but the rest of the songs are still currently displayed and 
+intact inside of the binary search tree. The condition of the delete
+function I was having trouble on was if both the right and left pointer
+was not NULL which is the hardest one out of all the other conditions
+because in order for your list to be "inorder" again you would need a 
+current pointer to take the next inorder successor node and replace it
+with the node that is going to be deleted with. 
+
+5) If I had more time to solve the problem I would try to just have fun with
+the program and do some crazy stuff with it such as displaying it 
+alphabetically backwards or deleting every next node with it. I would
+actually also try to work out my retrieve function because I practically
+did a retrieve function except that it only retrieved a display or a 
+delete node. 
+
+There were many differences with a hash table and a binary search tree.
+To compare it with proficiency I would say hash tables would be the best
+implementation because of the array like structure. And to also place the
+song that is converted into an integer and that integer determines where
+it will be placed is outstanding and proficient because you can just
+get direct access to that song if you type in the integer. All you need is
+the song title. With a binary search tree it is also proficient, but a hash
+table would be more proficient because a hash table has an implemented array
+and arrays are the dream. But an easier implementation would be binary
+search trees because there are no extra funcions. It would practically
+be like a linear linked list implementation except in recursion.
