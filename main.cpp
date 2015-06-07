@@ -1,7 +1,3 @@
-//Huy Yang (Huy Yanhs, Computer Science 163, Karla Fant
-
-//assignment #4
-
 //main.cpp
 
 //This file is supposed to ask the user whether they
